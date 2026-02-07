@@ -1,0 +1,13 @@
+# Sensitive information
+.env
+
+# Data volumes
+data/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.github/
+.claude/
