@@ -1,3 +1,6 @@
+# Local documentation
+localdocs
+
 # Sensitive information
 .env
 

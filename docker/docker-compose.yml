@@ -1,3 +1,5 @@
+name: hello-oracle-database
+
 services:
   oracle-db:
     build:
